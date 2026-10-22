@@ -5,6 +5,7 @@
     android:accessibilityFlags="flagReportViewIds|flagIncludeNotImportantViews"
     android:canRetrieveWindowContent="true"
     android:canPerformGestures="true"
+    android:canTakeScreenshot="true"
     android:packageNames="com.snapchat.android"
     android:notificationTimeout="100"
     android:description="@string/service_desc" />
